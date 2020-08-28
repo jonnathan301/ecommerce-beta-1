@@ -4,8 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Typography variant="h1">E-Commerce</Typography>
-      <Typography variant="h5">beta</Typography>
+      <h1 >E-Commerce</h1>
+      <h1 >beta</h1>
     </div>
   );
 }
